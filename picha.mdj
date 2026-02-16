@@ -2987,7 +2987,7 @@
 											"top": 316,
 											"width": 121,
 											"height": 13,
-											"text": "odainketa"
+											"text": "ordainketa"
 										},
 										{
 											"_type": "LabelView",
@@ -4711,8 +4711,8 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 80,
-											"top": -48,
+											"left": 64,
+											"top": -64,
 											"height": 13
 										},
 										{
@@ -4723,8 +4723,8 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 704.5,
-											"top": 548,
+											"left": 696.5,
+											"top": 540,
 											"width": 84,
 											"height": 13,
 											"text": "Inprimatu"
@@ -4738,8 +4738,8 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 80,
-											"top": -48,
+											"left": 64,
+											"top": -64,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -4753,16 +4753,16 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 80,
-											"top": -48,
+											"left": 64,
+											"top": -64,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 699.5,
-									"top": 541,
+									"left": 691.5,
+									"top": 533,
 									"width": 94,
 									"height": 25,
 									"stereotypeLabel": {
@@ -4790,8 +4790,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 40,
-									"top": -24,
+									"left": 32,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								},
@@ -4807,8 +4807,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 40,
-									"top": -24,
+									"left": 32,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								},
@@ -4824,8 +4824,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 40,
-									"top": -24,
+									"left": 32,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								},
@@ -4841,8 +4841,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 40,
-									"top": -24,
+									"left": 32,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								},
@@ -4858,8 +4858,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 40,
-									"top": -24,
+									"left": 32,
+									"top": -32,
 									"width": 10,
 									"height": 10
 								}
@@ -4867,8 +4867,8 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
-							"left": 680,
-							"top": 536,
+							"left": 672,
+							"top": 528,
 							"width": 133,
 							"height": 35,
 							"nameCompartment": {
@@ -4914,8 +4914,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 755,
-									"top": 484,
+									"left": 751,
+									"top": 481,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -4936,8 +4936,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 770,
-									"top": 483,
+									"left": 766,
+									"top": 481,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -4958,8 +4958,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 726,
-									"top": 487,
+									"left": 722,
+									"top": 482,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -4980,8 +4980,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 755,
-									"top": 467,
+									"left": 751,
+									"top": 468,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -5002,8 +5002,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 768,
-									"top": 468,
+									"left": 764,
+									"top": 470,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -5024,8 +5024,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 727,
-									"top": 465,
+									"left": 724,
+									"top": 464,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -5046,8 +5046,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 757,
-									"top": 501,
+									"left": 752,
+									"top": 494,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -5067,8 +5067,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 770,
-									"top": 498,
+									"left": 765,
+									"top": 492,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -5088,8 +5088,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 730,
-									"top": 508,
+									"left": 724,
+									"top": 499,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -5141,7 +5141,7 @@
 								"$ref": "AAAAAAGcZffR1Iys/RM="
 							},
 							"lineStyle": 1,
-							"points": "738:449;745:535",
+							"points": "736:449;738:527",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGcZfiEK7sxgn0="
@@ -5200,8 +5200,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 726,
-									"top": 487,
+									"left": 722,
+									"top": 482,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -5222,8 +5222,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 711,
-									"top": 488,
+									"left": 707,
+									"top": 482,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -5244,8 +5244,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 755,
-									"top": 484,
+									"left": 751,
+									"top": 481,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -5266,8 +5266,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 727,
-									"top": 504,
+									"left": 722,
+									"top": 495,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -5288,8 +5288,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 714,
-									"top": 503,
+									"left": 709,
+									"top": 493,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -5310,8 +5310,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 755,
-									"top": 506,
+									"left": 749,
+									"top": 499,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -5332,8 +5332,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 725,
-									"top": 470,
+									"left": 721,
+									"top": 469,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -5353,8 +5353,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 712,
-									"top": 473,
+									"left": 708,
+									"top": 471,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -5374,8 +5374,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 752,
-									"top": 463,
+									"left": 749,
+									"top": 464,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -5427,7 +5427,7 @@
 								"$ref": "AAAAAAGcZfa4CXrFZg8="
 							},
 							"lineStyle": 1,
-							"points": "745:535;738:449",
+							"points": "738:527;736:449",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGcZfiYEcAJI/k="
@@ -5586,8 +5586,8 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -224,
-											"top": -32,
+											"left": -240,
+											"top": -48,
 											"height": 13
 										},
 										{
@@ -5598,8 +5598,8 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 437.5,
-											"top": 604,
+											"left": 429.5,
+											"top": 596,
 											"width": 105,
 											"height": 13,
 											"text": "Deskontua bidali"
@@ -5613,8 +5613,8 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -224,
-											"top": -32,
+											"left": -240,
+											"top": -48,
 											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
@@ -5628,16 +5628,16 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -224,
-											"top": -32,
+											"left": -240,
+											"top": -48,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 432.5,
-									"top": 597,
+									"left": 424.5,
+									"top": 589,
 									"width": 115,
 									"height": 25,
 									"stereotypeLabel": {
@@ -5665,8 +5665,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -112,
-									"top": -16,
+									"left": -120,
+									"top": -24,
 									"width": 10,
 									"height": 10
 								},
@@ -5682,8 +5682,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -112,
-									"top": -16,
+									"left": -120,
+									"top": -24,
 									"width": 10,
 									"height": 10
 								},
@@ -5699,8 +5699,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -112,
-									"top": -16,
+									"left": -120,
+									"top": -24,
 									"width": 10,
 									"height": 10
 								},
@@ -5716,8 +5716,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -112,
-									"top": -16,
+									"left": -120,
+									"top": -24,
 									"width": 10,
 									"height": 10
 								},
@@ -5733,8 +5733,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -112,
-									"top": -16,
+									"left": -120,
+									"top": -24,
 									"width": 10,
 									"height": 10
 								}
@@ -5742,8 +5742,8 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
-							"left": 408,
-							"top": 592,
+							"left": 400,
+							"top": 584,
 							"width": 164,
 							"height": 35,
 							"nameCompartment": {
@@ -5789,8 +5789,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 503,
-									"top": 557,
+									"left": 498,
+									"top": 554,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -5811,8 +5811,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 518,
-									"top": 556,
+									"left": 513,
+									"top": 555,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -5833,8 +5833,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 474,
-									"top": 558,
+									"left": 469,
+									"top": 553,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -5855,8 +5855,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 504,
-									"top": 556,
+									"left": 499,
+									"top": 557,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -5877,8 +5877,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 517,
-									"top": 558,
+									"left": 512,
+									"top": 561,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -5899,8 +5899,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 476,
-									"top": 552,
+									"left": 472,
+									"top": 551,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -5921,8 +5921,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 504,
-									"top": 558,
+									"left": 499,
+									"top": 552,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -5942,8 +5942,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 517,
-									"top": 556,
+									"left": 513,
+									"top": 550,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -5963,8 +5963,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 477,
-									"top": 563,
+									"left": 471,
+									"top": 554,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -6012,7 +6012,7 @@
 								"$ref": "AAAAAAGcZf59sb84nSk="
 							},
 							"lineStyle": 1,
-							"points": "489:537;490:591",
+							"points": "486:537;483:583",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGcZgA1HvWnLn8="
@@ -6071,8 +6071,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 474,
-									"top": 557,
+									"left": 469,
+									"top": 552,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -6093,8 +6093,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 459,
-									"top": 557,
+									"left": 454,
+									"top": 551,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -6115,8 +6115,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 503,
-									"top": 558,
+									"left": 498,
+									"top": 555,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -6137,8 +6137,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 474,
-									"top": 559,
+									"left": 469,
+									"top": 550,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -6159,8 +6159,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 461,
-									"top": 557,
+									"left": 456,
+									"top": 546,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -6181,8 +6181,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 502,
-									"top": 563,
+									"left": 496,
+									"top": 556,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -6203,8 +6203,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 474,
-									"top": 557,
+									"left": 469,
+									"top": 555,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -6224,8 +6224,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 461,
-									"top": 559,
+									"left": 455,
+									"top": 557,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -6245,8 +6245,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 501,
-									"top": 552,
+									"left": 497,
+									"top": 553,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -6294,7 +6294,7 @@
 								"$ref": "AAAAAAGcZf9hYezn4/s="
 							},
 							"lineStyle": 1,
-							"points": "490:591;489:537",
+							"points": "483:583;486:537",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGcZgBIWPrBf4Q="
@@ -6499,7 +6499,8 @@
 								"navigable": "navigable"
 							}
 						}
-					]
+					],
+					"documentation": "# Login Flow of events\n\n## Basic Flow\n\n1. The **Langilea** ask to the **Bezeroa** the *NAN* or the *telefonoa*.\n2. The **Langilea** ask the system to make the *login*.\n3. To start the eskaera **Langilea** extends *eskaera*.\n\n## Alternative flow\n\n1. The **Bezeroa** has no account. The **Langilea** will sing up the **Beszeroa**."
 				},
 				{
 					"_type": "UMLUseCase",
@@ -6549,7 +6550,8 @@
 								"$ref": "AAAAAAGcZeiXX6rNrlM="
 							}
 						}
-					]
+					],
+					"documentation": "# eskaera Flow of events\n\n## Basic Flow\n\n1. The **Bezeroa** says the specificatrions of hte *eskaera*.\n2. To see if there is all the **Bezeroa** wants, the system extends *sotck-a begiratu*.\n3. The **Langilea** make the charge by extending *ordainketa*.\n4. The system add the *eskaera* to the *eskaera* list.\n\n## Alternative flow\n\n1. The **Bezeroa** ask something that there is not in the menu. The **Langilea** inform the **Bezeroa**.\n2. The *eskaera*'s prize is less than 10€. The **Langilea** inform the **Bezeroa**.\n3. The **Bezeroa** doesn't ask for any pizza. The **Langilea** inform the **Bezeroa**."
 				},
 				{
 					"_type": "UMLActor",
@@ -6610,7 +6612,8 @@
 								"$ref": "AAAAAAGcZei8NauJSMA="
 							}
 						}
-					]
+					],
+					"documentation": "# stock-a begiratu Flow of events\n\n## Basic Flow\n\n1. The system look if the product asked is aviable and inform the *eskaera*.\n\n## Alternative flow\n\n1. The product is not aviable. The **Langilea** inform **Bezeroa** and ask to chance it."
 				},
 				{
 					"_type": "UMLUseCase",
@@ -6618,7 +6621,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "odainketa",
+					"name": "ordainketa",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
@@ -6633,7 +6636,8 @@
 								"$ref": "AAAAAAGcZei8NauJSMA="
 							}
 						}
-					]
+					],
+					"documentation": "# Query Sales Flow of events\n\n## Basic Flow\n\n1. The system looks for the **Bezeroa**'s *txartelaZenabkia*.\n2. The **Langilea** makes the payment via the payment gateway.\n\n## Alternative flow\n\n"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -6671,7 +6675,8 @@
 								"navigable": "navigable"
 							}
 						}
-					]
+					],
+					"documentation": "# eskaera eskatu Flow of events\n\n## Basic Flow\n\n1. The **Sukaldari** take the *eskaera* that have been the most wating.\n2. The system indicate that the *eskaera* has been taken.\n3. If the *eskaera* has any pizzas the system add that pizzas to the *piizalist* of the **Sukaldari**.\n4. When the **Sukadari** finished the *eskaera* will take the ext one.\n\n\n\n## Alternative flow\n\n1. There are no *eskaera*. The **Sukaldari** will wait for the next  *eskaera*."
 				},
 				{
 					"_type": "UMLUseCase",
@@ -6709,7 +6714,8 @@
 								"navigable": "navigable"
 							}
 						}
-					]
+					],
+					"documentation": "# Inprimatu Flow of events\n\n## Basic Flow\n\n1. When a **day** pass the system sum the pizzas that each **Sukaldari** has make.\n2. The system add that sum to an array that has the **Sulkaldari**'s izena and the cuantity of pizzas hte **Sukaldari** make.\n3. the system print the array.\n\n\n## Alternative flow\n\n1. There is a **Sukaldari** that has not make any pizza. The system add **0** to the cuantity of pizzas that **Sukaldari** has make."
 				},
 				{
 					"_type": "UMLActor",
@@ -6823,7 +6829,8 @@
 								"navigable": "navigable"
 							}
 						}
-					]
+					],
+					"documentation": "# Deskontua bidali Flow of events\n\n## Basic Flow\n\n1. When a **month** passsystem calculates which **Bezeroa** has spent the most.\n2. system look for the cheaper *eskara* that **Bezeroa** has make.\n3. system sends a message to that **Bezeroa**.\n4. system substract the price of the cheaper *eskaera* to the price of the next *eskaera* of this **Bezeroa**.\n\n\n## Alternative flow\n\n1. the price of next *eskaera* of the **Bezeroa** is lower than the cheaper *eskaera*. The system will put to **0** the price of the *eskaera*.\n2. there are more than one **Bezeroa** with the most expences. The system will apply to all the discount."
 				},
 				{
 					"_type": "UMLClassDiagram",
@@ -11404,15 +11411,6 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "ordainketa-pasarela"
-				},
-				{
-					"_type": "UMLUseCaseDiagram",
-					"_id": "AAAAAAGcZwUh9BZvkaM=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "UseCaseDiagram2",
-					"documentation": "@startuml\nleft to right direction\nskinparam usecase {\n  BackgroundColor<<include>> LightYellow\n}\n\nactor \"Bezeroa\\n(cliente, por teléfono)\" as Customer\nactor \"Langilea\\n(empleado)\" as Employee\nactor \"Sukaldari\\n(cocinero)\" as Cook\nactor \"Sistema\\n(Scheduler/Cron)\" as Scheduler\n\nrectangle \"PIZZASTEL System\" {\n  usecase \"Login\" as UC_Login\n  usecase \"Crear/Componer\\nEskaera\" as UC_CreateOrder\n  usecase \"Comprobar stock\" as UC_CheckStock\n  usecase \"Gestionar falta\\nstock (alternativa)\" as UC_HandleStock\n  usecase \"Pagar\\n(orden inmediata)\" as UC_Pay\n  usecase \"Pedir siguiente\\neskaera (FIFO)\" as UC_GetNext\n  usecase \"Marcar\\npreparada\" as UC_MarkPrepared\n  usecase \"Enviar descuento\\nmensual (notificación)\" as UC_SendDiscount\n  usecase \"Imprimir ranking\\ndiario de cocineros\" as UC_PrintRanking\n}\n\n' Relaciones actor -> casos\nEmployee --> UC_Login\nCook --> UC_Login\n\n' El empleado crea la orden en nombre del cliente\nEmployee --> UC_CreateOrder\n' (nota) El Customer no accede al sistema directamente; el empleado actúa por teléfono\nCustomer ..> Employee : hace pedido por teléfono\n\n' Include / extend\nUC_CreateOrder .> UC_CheckStock : <<include>>\nUC_CreateOrder .> UC_Pay : <<include>>\nUC_CheckStock ..> UC_HandleStock : <<extend>>\n\n' Cocinero pide el siguiente y marca preparado\nCook --> UC_GetNext\nUC_GetNext --> UC_MarkPrepared\n\n' Casos programados disparados por el sistema\nScheduler --> UC_SendDiscount\nScheduler --> UC_PrintRanking\n\n@enduml"
 				},
 				{
 					"_type": "UMLClass",
